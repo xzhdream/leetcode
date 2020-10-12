@@ -1,3 +1,5 @@
+#核心思想：向未排序部分顺序取出一个最小数，排到已排序部分后面
+
 import time
 
 start = time.time()
